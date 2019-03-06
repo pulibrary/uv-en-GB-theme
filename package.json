@@ -5,6 +5,7 @@
   "author": "<jr5@princeton.edu>",
   "license": "MIT",
   "devDependencies": {
+    "grunt": "^1.0.3",
     "grunt-cli": "^1.3.2",
     "grunt-contrib-less": "^2.0.0"
   }
